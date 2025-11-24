@@ -1,0 +1,44 @@
+.firstclass button {
+  border-radius: 30px;
+  background-color: oklch(98.5% 0.002 247.839);
+  transition: background-color 0.25s;
+}
+
+.firstclass button:first-child {
+  background-color: #000 !important;
+  color: #fff;
+}
+
+
+.secondclass button {
+    background-color: oklch(98.5% 0.002 247.839);
+}
+.thirdclass button {
+    font-size: 10px;
+    border-radius: 30px;
+    background-color: oklch(98.463% 0.00181 249.248 / 0);
+}
+.fifthclass{
+  padding: 50px;  
+}
+.sixthclass button{
+    /* background-color: oklch(98.5% 0.002 247.839); */
+    background-color: #fff;
+}
+
+.min-h-screen{
+    width: 1400px;
+}
+footer  a{
+  color: #5f6368;
+}
+.ads-section{
+    padding-top: 240px;
+}
+    
+.authbutton button{
+    background-color: oklch(54.6% 0.245 262.881);
+}
+.authbutton .butonclick {
+    background-color: #fff;
+}
